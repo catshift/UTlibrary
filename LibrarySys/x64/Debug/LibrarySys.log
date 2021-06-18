@@ -1,0 +1,5 @@
+﻿  uic Inner.ui
+  LibrarySys.cpp
+  inn.cpp
+  moc_inn.cpp
+  LibrarySys.vcxproj -> C:\Users\60383\source\repos\LibrarySys\x64\Debug\LibrarySys.exe
